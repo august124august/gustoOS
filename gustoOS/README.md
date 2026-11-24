@@ -5,7 +5,7 @@ A small collection of Python mini-apps with a Tkinter launcher.
 ## Features
 
 - **Painter:** Pygame game where you paint squares and compete with a moving opponent.
-- **Spam filter:** Simple word-based spam classifier using `mail.csv`.
+- **Spam filter:** Simple word-based spam classifier using `mail.csv`(this version only contains dutch training data, u can add english if u want).
 - **Heads or tails:** Weighted coin-flip generator.
 - **Calculator game:** Practice basic arithmetic with randomly generated questions.
 
